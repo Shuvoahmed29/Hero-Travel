@@ -1,0 +1,11 @@
+.filter-grayscale {
+    filter: brightness(60%);
+  }
+  
+.Hover:hover{
+    box-shadow: 0 8px 16px rgba(34, 8, 203, 0.2);
+    transform: scale(1.01); 
+    transition: all 0.1s ease-in-out;
+    cursor: pointer;
+    background-color: blue;
+}
