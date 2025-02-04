@@ -100,3 +100,35 @@ body{
     z-index: -1;
     border-radius: 1rem;
 }
+
+.width-tour{
+    width: 40rem;
+}
+
+@media (min-width:150px) and (max-width:550px) {
+    .extra-small-width-tour{
+        width: 14rem;
+    }
+}
+
+@media (min-width:551px) and (max-width:950px) {
+    .median-width-tour{
+        width: 30rem;
+    }
+}
+
+.height-tour{
+    height: 35rem;
+}
+
+@media (min-width:150px) and (max-width:550px) {
+    .extra-small-height-tour{
+        height: 35rem;
+    }
+}
+
+@media (min-width:551px) and (max-width:950px) {
+    .median-height-tour{
+        height: 35rem;
+    }
+}
