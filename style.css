@@ -132,3 +132,9 @@ body{
         height: 35rem;
     }
 }
+
+
+.rotate-text {
+    transform: rotate(345deg);
+    transform-origin: top bottom;
+}
