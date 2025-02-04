@@ -123,13 +123,13 @@ body{
 
 @media (min-width:150px) and (max-width:550px) {
     .extra-small-height-tour{
-        height: 35rem;
+        height: 37rem;
     }
 }
 
 @media (min-width:551px) and (max-width:950px) {
     .median-height-tour{
-        height: 35rem;
+        height: 40rem;
     }
 }
 
